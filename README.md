@@ -1,7 +1,7 @@
 ![](new_banner.png)
 
 # Salut, Je m'appelle Guillaume 👋
-🔭 Je construis des trucs que personne n'a demandé, mais dont tout le monde a besoin<br>👯 Partant pour collaborer sur tout ce qui est bizarre ou utile<br>🤝 À l'aide — mes side projects ont des side projects<br>🌱 J'apprends actuellement à arrêter de lancer de nouveaux projets<br>💬 Parlez-moi tech, bière ou des deux en même temps<br>👨‍💻 Code, création et parentalité (dans le désordre)<br>🧔‍♂️ Ma barbe code mieux que moi<br>📍 Dijonnais — oui, la ville de la moutarde
+🔭 Je construis des trucs que personne n'a demandé, mais dont tout le monde a besoin<br>👯 Partant pour collaborer sur tout ce qui est bizarre ou utile<br>🤝 À l'aide, mes side projects ont des side projects<br>🌱 J'apprends actuellement à arrêter de lancer de nouveaux projets<br>💬 Parlez-moi tech, bière ou des deux en même temps<br>👨‍💻 Code, création et parentalité (dans le désordre)<br>🧔‍♂️ Ma barbe code mieux que moi<br>📍 Dijonnais (oui, la ville de la moutarde)
 
 
 ## 🌐 Socials:
